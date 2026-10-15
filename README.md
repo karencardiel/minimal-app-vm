@@ -2,5 +2,5 @@
 
 This activity includes four visualizations of point-of-sale data: orders, payments, sessions, and sales by month, week, and responsible person. The project uses Python, Plotly, and PostgreSQL to retrieve and visualize data.
 
-**HTML visualizations:** `outputs/visualizations/`  
+**HTML visualizations:** `outputs/visualizations/reporte_pos`  
 **Main dashboard app:** `dashboard/app.py`
